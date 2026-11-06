@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4023","view the item ADIDAS ORIGINAL","chromium","2026-11-03","passed","2026-11-03","","dashboardpagetestJson.spec.ts","",""
+"","4889","view the item ZARA COAT 3","chromium","2026-11-03","passed","2026-11-03","","dashboardpagetestJson.spec.ts","",""
+"","5507","add the product to the cart ZARA COAT 3","chromium","2026-11-03","passed","2026-11-03","","dashboardpagetestJson.spec.ts","",""
+"","1936","view the item iphone 13 pro","chromium","2026-11-03","passed","2026-11-03","","dashboardpagetestJson.spec.ts","",""
+"","5469","add the product to the cart iphone 13 pro","chromium","2026-11-03","passed","2026-11-03","","dashboardpagetestJson.spec.ts","",""
+"","4337","add the product to the cart ADIDAS ORIGINAL","chromium","2026-11-03","passed","2026-11-03","","dashboardpagetestJson.spec.ts","",""

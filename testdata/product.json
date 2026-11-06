@@ -1,0 +1,26 @@
+[
+{
+     "url":"https://rahulshettyacademy.com/client/#/auth/login",
+     "email":"yivek45656@leafflip.com", 
+     "password":"789@testuserI",
+     "productName":"ADIDAS ORIGINAL",
+     "successMessage":"Product Added To Cart"
+},
+
+{
+     "url":"https://rahulshettyacademy.com/client/#/auth/login",
+     "email":"yivek45656@leafflip.com",
+     "password":"789@testuserI",
+     "productName":"ZARA COAT 3",
+     "successMessage":"Product Added To Cart"
+},
+{
+     "url":"https://rahulshettyacademy.com/client/#/auth/login",
+     "email":"yivek45656@leafflip.com",
+     "password":"789@testuserI",
+     "productName":"iphone 13 pro",
+     "successMessage":"Product Added To Cart"
+}
+]
+
+
