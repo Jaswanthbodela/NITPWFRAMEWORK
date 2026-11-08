@@ -43,7 +43,10 @@ version control is a system that records changes to a file or set of files over 
 
 // new changes
 
+/*
+new commit change after clearing the mess from the previous commit.
 
+*/
 
 
 
