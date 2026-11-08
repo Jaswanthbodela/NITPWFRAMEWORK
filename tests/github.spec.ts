@@ -21,11 +21,7 @@ version control is a system that records changes to a file or set of files over 
  7. git remote add origin <repository_url> (this will add the remote repository to your local repository).
  8. fit push -u origin main (this will push the changes to the remote repository).
 
-<<<<<<< HEAD
  //https://github.com/Jaswanthbodela/NITPWFRAMEWORK.git
-=======
-  //https://github.com/Jaswanthbodela/NITPWFRAMEWORK.git
->>>>>>> bb50ab890165ef7c5abcecbfceb36ba9eeca2f4e
  // when the git repository is already created, then clone it inside your local.
  1. clone the repository in your local system using below command
         git clone <repository_url>
@@ -40,19 +36,8 @@ version control is a system that records changes to a file or set of files over 
  6. git commit -m "commit message"
  7. git push 
         git push --set-upstream origin PlaywrightCode 
-<<<<<<< HEAD
  8. git push  
-=======
- 8. git push 
-
->>>>>>> bb50ab890165ef7c5abcecbfceb36ba9eeca2f4e
  
-
-*/
-
-/*
-Iam performing the new changes after cloning the repository
-this will be the change
 
 */
 
