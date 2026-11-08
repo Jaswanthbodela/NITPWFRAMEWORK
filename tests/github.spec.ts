@@ -21,11 +21,32 @@ version control is a system that records changes to a file or set of files over 
  7. git remote add origin <repository_url> (this will add the remote repository to your local repository).
  8. fit push -u origin main (this will push the changes to the remote repository).
 
+  //https://github.com/Jaswanthbodela/NITPWFRAMEWORK.git
+ // when the git repository is already created, then clone it inside your local.
+ 1. clone the repository in your local system using below command
+        git clone <repository_url>
+ 2. After the clone is completed. we need to download all the dependencies using the command npm install.
+        npm install
+        npm init playwright@latest
+ 3. now make some changes to the existing code and commit the changes to the local repository using below commands.
+        first create the new branch
+        git checkout -b "PlaywrightCode"
+ 4. git branch (this will show the current branch name)
+ 5. git add . 
+ 6. git commit -m "commit message"
+ 7. git push 
+        git push --set-upstream origin PlaywrightCode 
+ 8. git push 
 
  
 
 */
 
+/*
+Iam performing the new changes after cloning the repository
+this will be the change
+
+*/
 
 
 
