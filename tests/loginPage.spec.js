@@ -1,11 +1,11 @@
 // this is jusst to see the difference between TS and JS 
 
 import {test,expect} from '@playwright/test';
-import { LoginPage } from '../pages/loginPage';
+import { PageLogin } from '../pages/pageLogin';
 import data from '../testdata/login.json';
 let lps
 test.beforeEach(async({page})=>{
-    lps=new LoginPage(page)
+    lps=new PageLogin(page)
     await lps.launchUrl(data.url)
 })
 

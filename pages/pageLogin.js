@@ -11,7 +11,7 @@ export class PageLogin{
     // password - 789@testuserI
 
         constructor(Page){
-            this.page=page
+            this.page=Page
             this.email=this.page.locator('#userEmail');
             this.password = this.page.getByPlaceholder('enter your passsword');
             this.loginButton=this.page.locator('#login');
